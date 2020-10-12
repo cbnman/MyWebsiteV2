@@ -1,0 +1,21 @@
+{
+  "name": "MyWebsiteV2",
+  "version": "1.0.0",
+  "description": "Here I am experimenting with different web based coding languages and packages!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbnman/MyWebsiteV2.git"
+  },
+  "keywords": [],
+  "author": "Corbin Farley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbnman/MyWebsiteV2/issues"
+  },
+  "homepage": "https://github.com/cbnman/MyWebsiteV2#readme",
+  "dependencies": {}
+}
